@@ -1,0 +1,43 @@
+﻿/*The body architecture*/
+body {
+    /*Set margin to 0 so that the page dont't have a white boarder*/
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:0px;
+}
+.headerImage{
+    position:relative;
+    width:100%;
+}
+
+h1{
+    position:absolute;
+    top:6%;
+    left:58%;
+    width:100%;
+    font-size:400%;
+}
+
+/*Headline*/
+h2{
+    color:white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:200%;
+}
+
+#intro{
+    color:aliceblue;
+    background-color:aquamarine
+}
+
+#test .first em{
+    color:pink;
+    background-color:grey;
+}
+/*
+p{
+    color:white;
+    background-color:gray;
+}*/
+
